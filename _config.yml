@@ -1,5 +1,6 @@
 name: Alpha
 description: Alphs template for Jekyll
-
+url: ""
+baseurl: ""
 paginate: 10
 
